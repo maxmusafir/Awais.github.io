@@ -7,6 +7,9 @@ I’m a photographer driven by moments that feel real and timeless. My work focu
 ![Home Page](https://github.com/maxmusafir/Awais.github.io/blob/571344ada6ca78ed82b7af881dab6df8f438c4e0/0R7A5429.jpg)
 _Home Page_
 
+![Home Page](https://github.com/maxmusafir/Awais.github.io/blob/571344ada6ca78ed82b7af881dab6df8f438c4e0/0R7A5429.jpg)
+_Home Page_
+
 ![Dashboard](screenshots/dashboard.png)
 _Dashboard_
 
