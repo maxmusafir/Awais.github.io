@@ -10,7 +10,7 @@ _Home Page_
 ![Home Page](https://github.com/maxmusafir/Awais.github.io/blob/571344ada6ca78ed82b7af881dab6df8f438c4e0/0R7A5429.jpg)
 _Home Page_
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](https://github.com/maxmusafir/Awais.github.io/blob/a4d2b86bce198d9f743580226815bf39ec5f4826/0R7A5442.jpg)
 _Dashboard_
 
 ## 🚀 Features
