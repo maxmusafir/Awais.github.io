@@ -1,8 +1,8 @@
-# Photography Website
+# Awais Portfolio
 
-A modern photography portfolio website built with Next.js 16, featuring interactive maps, photo management, and a comprehensive dashboard.
+I’m a photographer driven by moments that feel real and timeless. My work focuses on light, emotion, and composition.
 
-## 📸 Screenshots
+## 📸 Photos
 
 ![Home Page](screenshots/home.png)
 _Home Page_
