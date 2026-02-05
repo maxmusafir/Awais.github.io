@@ -13,6 +13,17 @@ _Home Page_
 ![Dashboard](https://github.com/maxmusafir/Awais.github.io/blob/a4d2b86bce198d9f743580226815bf39ec5f4826/0R7A5442.jpg)
 _Dashboard_
 
+<div class="images"> 
+  <h3>images/wedding-ali-sara</h3>
+
+  <div class="gallery">
+    <img src="DSC2037.jpg">
+    <img src="DSC2046.jpg">
+    <img src="DSC2064.jpg">
+  </div>
+</div>
+
+
 ## 🚀 Features
 
 - **Next.js 16** with React 19 and React Compiler
