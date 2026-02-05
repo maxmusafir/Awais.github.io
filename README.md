@@ -20,7 +20,7 @@ _Dashboard_
 
 <body> 
   
-  <h2>Wedding Photography</h2>
+  <h2>https://github.com/maxmusafir/Awais.github.io/tree/60abbaf7136aa134ae7b08e367547c2fca542aec/images/images/wedding-ali-sara</h2>
 
   <div class="gallery">
     <img src="https://github.com/maxmusafir/Awais.github.io/blob/02662eb7bee80346480b0d7a60fb174fb6f99abf/images/images/wedding-ali-sara/DSC2082.jpg">
