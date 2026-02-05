@@ -17,8 +17,8 @@ _Dashboard_
   <h3>images/wedding-ali-sara</h3>
 
   <div class="gallery">
-    <img src="https://github.com/maxmusafir/Awais.github.io/blob/c3ea66f817d6a7c5664b3e2160772e963d33cd30/images/images/wedding-ali-sara/DSC2050.jpg">
-    <img src="https://github.com/maxmusafir/Awais.github.io/blob/c3ea66f817d6a7c5664b3e2160772e963d33cd30/images/images/wedding-ali-sara/DSC2050.jpg">
+    <img src="https://github.com/maxmusafir/Awais.github.io/blob/02662eb7bee80346480b0d7a60fb174fb6f99abf/images/images/wedding-ali-sara/DSC2082.jpg">
+    <img src="https://github.com/maxmusafir/Awais.github.io/blob/02662eb7bee80346480b0d7a60fb174fb6f99abf/images/images/wedding-ali-sara/DSC2064.jpg">
     <img src="https://github.com/maxmusafir/Awais.github.io/blob/c3ea66f817d6a7c5664b3e2160772e963d33cd30/images/images/wedding-ali-sara/DSC2037.jpg">
     <img src="https://github.com/maxmusafir/Awais.github.io/blob/c3ea66f817d6a7c5664b3e2160772e963d33cd30/images/images/wedding-ali-sara/DSC2046.jpg">
     <img src="https://github.com/maxmusafir/Awais.github.io/blob/c3ea66f817d6a7c5664b3e2160772e963d33cd30/images/images/wedding-ali-sara/DSC2050.jpg">
