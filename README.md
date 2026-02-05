@@ -22,7 +22,10 @@ _Dashboard_
     <img src="https://github.com/maxmusafir/Awais.github.io/blob/c3ea66f817d6a7c5664b3e2160772e963d33cd30/images/images/wedding-ali-sara/DSC2050.jpg">
   </div>
 </div>
-
+.gallery {
+  display: flex;
+  gap: 15px;
+}
 
 
 ## 🚀 Features
