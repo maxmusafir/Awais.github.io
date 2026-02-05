@@ -25,7 +25,7 @@ _Dashboard_
   </div>
 </div>
 
-<link rel="stylesheet" href="style.css">
+<link rel="https://github.com/maxmusafir/Awais.github.io/blob/5ca87c8520b8792abe644f4471227a158175b90f/style.css" href="style.css">
 
 .gallery img:hover {
   transform: scale(1.03);
