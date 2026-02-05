@@ -15,12 +15,13 @@ _Dashboard_
 
 <html>
 <head>
-  
   <link rel="stylesheet" href="style.css">
-  
 </head>
 
 <body> 
+  
+  <h2>Wedding Photography</h2>
+
   <div class="gallery">
     <img src="https://github.com/maxmusafir/Awais.github.io/blob/02662eb7bee80346480b0d7a60fb174fb6f99abf/images/images/wedding-ali-sara/DSC2082.jpg">
     <img src="https://github.com/maxmusafir/Awais.github.io/blob/02662eb7bee80346480b0d7a60fb174fb6f99abf/images/images/wedding-ali-sara/DSC2064.jpg">
