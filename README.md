@@ -13,13 +13,14 @@ _Home Page_
 ![Dashboard](https://github.com/maxmusafir/Awais.github.io/blob/a4d2b86bce198d9f743580226815bf39ec5f4826/0R7A5442.jpg)
 _Dashboard_
 
+<html>
 <head>
+  
   <link rel="stylesheet" href="style.css">
+  
 </head>
 
-<div class="images"> 
-  <h3>images/wedding-ali-sara</h3>
-
+<body> 
   <div class="gallery">
     <img src="https://github.com/maxmusafir/Awais.github.io/blob/02662eb7bee80346480b0d7a60fb174fb6f99abf/images/images/wedding-ali-sara/DSC2082.jpg">
     <img src="https://github.com/maxmusafir/Awais.github.io/blob/02662eb7bee80346480b0d7a60fb174fb6f99abf/images/images/wedding-ali-sara/DSC2064.jpg">
@@ -28,13 +29,11 @@ _Dashboard_
     <img src="https://github.com/maxmusafir/Awais.github.io/blob/c3ea66f817d6a7c5664b3e2160772e963d33cd30/images/images/wedding-ali-sara/DSC2050.jpg">
   </div>
 </div>
+ </body>
+ 
+</html>
 
 
-
-.gallery img:hover {
-  transform: scale(1.03);
-  transition: 0.3s ease;
-}
 
 
 This project is licensed under the MIT License - see the LICENSE file for details.
