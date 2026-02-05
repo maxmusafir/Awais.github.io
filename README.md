@@ -20,8 +20,8 @@
     <h2>Wedding Photography</h2>
 
     <div class="gallery">
-      <img src="images/wedding-ali-sara/DSC2082.jpg" alt="Wedding photo">
-      <img src="images/wedding-ali-sara/DSC2064.jpg" alt="Wedding photo">
+      <img src="DSC2082.jpg">
+      <img src="DSC2082.JPG">
       <img src="images/wedding-ali-sara/DSC2037.jpg" alt="Wedding photo">
       <img src="images/wedding-ali-sara/DSC2046.jpg" alt="Wedding photo">
       <img src="images/wedding-ali-sara/DSC2050.jpg" alt="Wedding photo">
