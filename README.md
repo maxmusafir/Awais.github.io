@@ -13,6 +13,10 @@ _Home Page_
 ![Dashboard](https://github.com/maxmusafir/Awais.github.io/blob/a4d2b86bce198d9f743580226815bf39ec5f4826/0R7A5442.jpg)
 _Dashboard_
 
+<head>
+  <link rel="stylesheet" href="style.css">
+</head>
+
 <div class="images"> 
   <h3>images/wedding-ali-sara</h3>
 
@@ -25,8 +29,6 @@ _Dashboard_
   </div>
 </div>
 
-<head>
-  <link rel="stylesheet" href="style.css">
 
 
 .gallery img:hover {
