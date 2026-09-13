@@ -186,6 +186,24 @@ nav h2 {
     background: #181818;
 }
 
+/* SOCIAL MEDIA REELS */
+
+.social-reels {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    width: 100%;
+    margin-top: 30px;
+}
+
+.social-reels video {
+    width: 100%;
+    aspect-ratio: 9 / 16;
+    object-fit: cover;
+    display: block;
+    background: #000;
+}
+
 .video-box h3 {
     font-size: 25px;
     margin-bottom: 8px;
