@@ -202,6 +202,16 @@ nav h2 {
     object-fit: cover;
     display: block;
     background: #000;
+
+    border-radius: 8px;
+    overflow: hidden;
+
+    transition: transform 0.35s ease, opacity 0.35s ease;
+}
+
+.social-reels video:hover {
+    transform: scale(1.02);
+    opacity: 0.92;
 }
 
 .video-box h3 {
