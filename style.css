@@ -186,6 +186,23 @@ nav h2 {
     background: #181818;
 }
 
+/* SOCIAL MEDIA SECTION */
+
+.social-media-section {
+    max-width: 1200px;
+    margin: 0 auto 100px;
+}
+
+.social-media-section h3 {
+    font-size: 30px;
+    font-weight: 400;
+    margin-bottom: 8px;
+}
+
+.social-media-section p {
+    color: #999;
+}
+
 /* SOCIAL MEDIA REELS */
 
 .social-reels {
