@@ -348,6 +348,15 @@ footer {
         display: none;
     }
 
+    .menu-toggle {
+    display: block;
+    background: none;
+    border: none;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+}
+
     .hero {
         min-height: 90vh;
     }
