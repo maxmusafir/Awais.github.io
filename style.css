@@ -141,7 +141,7 @@ nav h2 {
 .gallery {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 12px;
+    gap: 18px;
 }
 
 .gallery img {
@@ -375,16 +375,27 @@ footer {
     }
 
     .hero h1 {
-        font-size: 60px;
+        font-size: 48px;
     }
+
+    .hero-text {
+    font-size: 15px;
+    margin-bottom: 28px;
+}
+
+    .button {
+    padding: 13px 24px;
+    font-size: 11px;
+}
 
     .section {
         padding: 70px 20px;
     }
 
     .gallery {
-        grid-template-columns: 1fr;
-    }
+    grid-template-columns: 1fr;
+    gap: 15px;
+}
 
     .gallery img {
     height: auto;
@@ -397,11 +408,21 @@ footer {
     gap: 15px;
 }
 
+    .social-reels {
+    grid-template-columns: 1fr;
+    gap: 15px;
+}
+    
+
 /* BTS ON MOBILE */
 
 .bts-videos {
     grid-template-columns: 1fr;
     gap: 20px;
+}
+
+    .video-box video {
+    max-height: 400px;
 }
 
     .video-grid {
