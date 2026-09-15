@@ -214,6 +214,7 @@ nav h2 {
 }
 
 .social-reels video {
+
     width: 100%;
     aspect-ratio: 9 / 16;
     object-fit: cover;
@@ -224,6 +225,30 @@ nav h2 {
     overflow: hidden;
 
     transition: transform 0.35s ease, opacity 0.35s ease;
+}
+
+.commercial-reels {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    width: 100%;
+    margin-top: 40px;
+}
+
+.commercial-reels video {
+    width: 100%;
+    aspect-ratio: 9 / 16;
+    object-fit: cover;
+    display: block;
+    background: #000;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.35s ease, opacity 0.35s ease;
+}
+
+.commercial-reels video:hover {
+    transform: scale(1.02);
+    opacity: 0.92;
 }
 
 .social-reels video:hover {
