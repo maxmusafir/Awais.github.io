@@ -170,7 +170,7 @@ nav h2 {
 .video-grid {
     max-width: 1200px;
     margin: auto;
-    padding: 0 30px 100px;
+    padding: 0 30px 120px;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 20px;
@@ -353,7 +353,7 @@ footer {
     }
 
     .section {
-        padding: 80px 20px;
+        padding: 70px 20px;
     }
 
     .gallery {
