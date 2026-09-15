@@ -147,7 +147,6 @@ nav h2 {
     display: block;
     transition: 0.4s;
 }
-}
 
 .gallery img:hover {
     transform: scale(1.02);
@@ -362,8 +361,8 @@ footer {
     }
 
     .gallery img {
-        height: 450px;
-    }
+    height: auto;
+}
 
     /* COMMERCIAL ON MOBILE */
 
