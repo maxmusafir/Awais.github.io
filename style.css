@@ -364,6 +364,20 @@ footer {
         height: 450px;
     }
 
+    /* COMMERCIAL ON MOBILE */
+
+.commercial-reels {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+}
+
+/* BTS ON MOBILE */
+
+.bts-videos {
+    grid-template-columns: 1fr;
+    gap: 20px;
+}
+
     .video-grid {
         grid-template-columns: 1fr;
         padding: 0 20px 80px;
