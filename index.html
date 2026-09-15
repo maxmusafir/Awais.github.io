@@ -489,5 +489,37 @@
     <img id="lightbox-image" src="" alt="Full size photo">
 </div>    
 
+    <div id="photo-lightbox" class="photo-lightbox">
+    <button class="lightbox-close">&times;</button>
+    <img id="lightbox-image" src="" alt="Full size photo">
+</div>
+
+<script>
+function toggleMenu() {
+    document.querySelector('.nav-links').classList.toggle('mobile-open');
+}
+
+const lightbox = document.getElementById('photo-lightbox');
+const lightboxImage = document.getElementById('lightbox-image');
+const closeButton = document.querySelector('.lightbox-close');
+
+document.querySelectorAll('.gallery img').forEach(image => {
+    image.addEventListener('click', () => {
+        lightboxImage.src = image.src;
+        lightbox.classList.add('active');
+    });
+});
+
+closeButton.addEventListener('click', () => {
+    lightbox.classList.remove('active');
+});
+
+lightbox.addEventListener('click', event => {
+    if (event.target === lightbox) {
+        lightbox.classList.remove('active');
+    }
+});
+</script>
+
 </body>
 </html>
