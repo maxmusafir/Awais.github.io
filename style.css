@@ -175,9 +175,7 @@ nav h2 {
     max-width: 1200px;
     margin: auto;
     padding: 0 30px 120px;
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 20px;
+    display: block;
 }
 
 .video-box {
