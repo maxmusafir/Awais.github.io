@@ -348,6 +348,19 @@ footer {
         display: none;
     }
 
+    .nav-links.mobile-open {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 100%;
+    right: 20px;
+    background: #111;
+    padding: 20px;
+    gap: 18px;
+    border: 1px solid #333;
+    border-radius: 8px;
+}
+
     .menu-toggle {
     display: block;
     background: none;
