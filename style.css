@@ -64,6 +64,10 @@ nav h2 {
     color: white;
 }
 
+.menu-toggle {
+    display: none;
+}
+
 /* HERO */
 
 .hero {
